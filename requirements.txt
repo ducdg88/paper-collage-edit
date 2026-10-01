@@ -1,0 +1,7 @@
+pillow
+numpy
+scipy
+faster-whisper
+mediapipe
+rembg
+onnxruntime
